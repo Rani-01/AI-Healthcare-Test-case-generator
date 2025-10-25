@@ -1,0 +1,5 @@
+{
+  "name": "AI Healthcare Test Case Generator",
+  "description": "An AI-powered system that automatically converts healthcare software requirements into compliant, traceable test cases. This tool helps QA teams by generating tests from specifications, ensuring compliance with standards like FDA and ISO, and preparing for integration with enterprise toolchains like Jira and Azure DevOps.",
+  "requestFramePermissions": []
+}
